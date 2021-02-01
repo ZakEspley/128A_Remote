@@ -4,7 +4,7 @@
 
 ## Overview
 
-In this project, you will construct an SIR model to quatitatively simulate the progression of the COVID19 pandemic in a Country, State, or City of choice. You will begin by first drafting code to simulate the "basic" SIR model, which is the starting point of most epidemiological work. 
+In this project, you will construct an SIR model to quantitatively simulate the progression of the COVID19 pandemic in a Country, State, or City of choice. You will begin by first drafting code to simulate the "basic" SIR model, which is the starting point of most epidemiological work. 
 
 Your first job is to demonstrate that your code runs as expected and generates reasonable data for arbitrary parameters. Following this, you will extract parameters from *real data* and compare your SIR model results.
 

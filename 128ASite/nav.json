@@ -49,5 +49,10 @@
         "name": "Planck",
         "file": "planck",
         "showSmall": "false"
+    },
+    {
+        "name": "Showcase",
+        "file": "showcase",
+        "showSmall": "false"
     }
 ]
